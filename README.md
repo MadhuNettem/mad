@@ -1,2 +1,4 @@
 # mad
-forjavaproject
+
+
+Initiate writing python code
